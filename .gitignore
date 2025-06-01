@@ -10,5 +10,14 @@ out/
 # Docs
 docs/
 
+
+
+/lib
+/out
+/cache
+/artifacts
+.DS_Store
+*.env
+
 # Dotenv file
 .env
